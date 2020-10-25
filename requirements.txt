@@ -1,0 +1,4 @@
+PyPowerDNS
+setuptools
+wheel
+twine
